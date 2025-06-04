@@ -1,3 +1,0 @@
-Recipe: a
-Ingredients: s
-Instructions: 
